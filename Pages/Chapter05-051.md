@@ -1,4 +1,4 @@
-# adverb clauses
+# Adverb Clauses
 
 ### 1. **because he was late**
    - **Examples:**
