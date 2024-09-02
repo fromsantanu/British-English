@@ -1,4 +1,4 @@
-# Learning to Speak English the British Way
+# Learning to Speak English the British Way ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
 
 ## Table of Content
