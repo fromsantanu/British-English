@@ -1,5 +1,12 @@
 # Conversation 2
 
+## Watch the video
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=ZxIUS92wBwE" target="_blank">
+    <img src="https://img.youtube.com/vi/ZxIUS92wBwE/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
 **Alice:** Good morning, Ben! How’s university treating you today?
 
 **Ben:** Good morning, Alice! The usual stuff. I have lectures back-to-back all day. It’s a bit of a grind. How about you?
