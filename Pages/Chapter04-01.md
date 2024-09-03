@@ -1,5 +1,14 @@
 # Story Narration 1
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=8ro3GodzjvQ" target="_blank">
+    <img src="https://img.youtube.com/vi/8ro3GodzjvQ/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 **[Setting: A cozy living room. Two friends are sitting on a sofa with coffee mugs in their hands. The narrator, a lady in her 60s, speaks animatedly, her eyes sparkling with excitement.]**
 
 ---
