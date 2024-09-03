@@ -1,5 +1,12 @@
 # Conversation 3
 
+## Watch the video
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=UNQeMg1NoKM" target="_blank">
+    <img src="https://img.youtube.com/vi/UNQeMg1NoKM/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
 **Alice:** Hey, Ben! How was your day after we left the Oxford library?
 
 **Ben:** Hey, Alice! It was pretty good, actually. I can’t stop thinking about all the stuff we found on Romanian vampire lore. That library is incredible, isn’t it?
