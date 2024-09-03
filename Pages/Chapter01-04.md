@@ -1,5 +1,12 @@
 # Conversation 4
 
+## Watch the video
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=Cnp-0n3auOA" target="_blank">
+    <img src="https://img.youtube.com/vi/Cnp-0n3auOA/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
 **Alice:** Hey, Ben! Remember our trip to the Oxford library last week?
 
 **Ben:** Oh, definitely! That was such a good day. We learned so much about Vlad the Impaler and how he inspired Bram Stoker’s "Dracula."
