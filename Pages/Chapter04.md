@@ -1,5 +1,14 @@
 # Story Narrations
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=QFsss_RKgSQ" target="_blank">
+    <img src="https://img.youtube.com/vi/QFsss_RKgSQ/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 Storytelling is a fundamental aspect of human communication and a powerful tool for learning a language. Listening to story narrations, especially in British English, provides a unique opportunity to immerse yourself in the rich tapestry of language used in creative and expressive contexts. In this chapter, we explore the importance of listening to story narrations as a method for mastering British English, focusing on how stories are told to a group of friends or an audience.
 
 #### 1. **The Value of Story Narrations in Language Learning**
