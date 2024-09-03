@@ -1,5 +1,14 @@
 # Story Narration 2
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=q3B9MkjRSpE" target="_blank">
+    <img src="https://img.youtube.com/vi/q3B9MkjRSpE/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 **[Setting: A dimly lit living room. Two friends, one a middle-aged man (the narrator), sit on a couch with a cup of tea in hand. The room is filled with an eerie silence as the man begins his story. The friend listens with a mix of curiosity and apprehension.]**
 
 ---
