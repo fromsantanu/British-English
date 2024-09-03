@@ -1,5 +1,14 @@
 # Practice Method
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=J_HY2y0aJ5g" target="_blank">
+    <img src="https://img.youtube.com/vi/J_HY2y0aJ5g/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 Mastering British English involves more than just understanding vocabulary and grammar; it requires immersing yourself in the rhythm, intonation, and unique expressions of the language. In this chapter, we outline an effective practice method designed to help you internalize the nuances of British English through consistent and targeted practice.
 
 #### 1. **Text and Video Examples in British Patterns**
