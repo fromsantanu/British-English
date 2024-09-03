@@ -1,4 +1,12 @@
 # General Conversations
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=sRdRZLq5BoI" target="_blank">
+    <img src="https://img.youtube.com/vi/sRdRZLq5BoI/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
 
 Engaging in general, day-to-day conversations is one of the most effective ways to immerse yourself in British English. Everyday dialogues help learners understand how language is naturally used in various contexts, from casual chats to more formal exchanges. In this chapter, we emphasize the importance of listening to examples of general conversations between two or more people, as this practice is vital for mastering the nuances of British English.
 
