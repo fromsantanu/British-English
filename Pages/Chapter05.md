@@ -1,5 +1,14 @@
 # Usage Examples (Sentence Making)
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=0gPDR5ujtr8" target="_blank">
+    <img src="https://img.youtube.com/vi/0gPDR5ujtr8/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 Mastering British English goes beyond understanding vocabulary and grammar; it involves learning how to construct sentences using various phrases and clauses that are characteristic of the British style. In this chapter, we focus on the importance of listening to and practicing examples of sentence-making, which includes the use of different types of phrases and clauses. This approach will help you build a solid foundation in crafting sentences that are not only grammatically correct but also sound natural and fluent in British English.
 
 #### 1. **The Importance of Sentence Making in Language Mastery**
