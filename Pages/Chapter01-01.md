@@ -1,5 +1,12 @@
 # Conversation 1
 
+## Watch the video 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=_sxpkEn_sT0" target="_blank">
+    <img src="https://img.youtube.com/vi/_sxpkEn_sT0/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
 **Alice:** Hey, Ben. How’s it going?
 
 **Ben:** Not bad, thanks. How about you?
