@@ -22,7 +22,7 @@ Learning to speak the British way as a non-native involves mastering pronunciati
   - [Mixed Phrases 3](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-033.md)
   - [Adjective Clauses](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-041.md)
   - [Adverb Clauses](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-051.md)
-- [**British Communication Specialties**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06.md)
+- [**British politeness**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06.md)
   - [Understatement](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-011.md)
   - [Euphemisms](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-021.md)
   - [Avoiding Direct No](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-031.md)
