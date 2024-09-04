@@ -1,5 +1,5 @@
 
-# Integrating into British Society: A Guide for New Immigrants**
+# Integrating into British Society: A Guide for New Immigrants
 
 If you are planning to immigrate to Britain and settle in England or the British Isles, it is important to consider key aspects that will help you integrate into the new society and culture. One significant factor to focus on for long-term settlement is adopting the British style of speaking.
 
