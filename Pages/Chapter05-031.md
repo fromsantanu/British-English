@@ -162,30 +162,3 @@
      4. Speak of the devil, and there he is, just in time.
      5. They mentioned her name, and speak of the devil, she showed up.
 
-### 18. **On the ball**
-   - **Meaning**: To be alert, aware, and responsive.
-   - **Examples**:
-     1. She's really on the ball with her work.
-     2. You need to be on the ball to catch every detail.
-     3. He’s always on the ball when it comes to deadlines.
-     4. They were on the ball and managed to solve the problem quickly.
-     5. If you’re not on the ball, you might miss something important.
-
-### 19. **Under the impression**
-   - **Meaning**: Believing something, often mistakenly.
-   - **Examples**:
-     1. I was under the impression that the meeting was at 3 PM, not 4 PM.
-     2. She was under the impression that he would be joining them for dinner.
-     3. They were under the impression that the project had been approved.
-     4. He was under the impression that she was interested in the job.
-     5. We were under the impression that everything was on schedule.
-
-### 20. **Take with a grain of salt**
-   - **Meaning**: To view something with skepticism or not take it too seriously.
-   - **Examples**:
-     1. You should take his advice with a grain of salt; he tends to exaggerate.
-     2. She told me the story, but I took it with a grain of salt.
-     3. He tends to gossip, so take what he says with a grain of salt.
-     4. When reading online reviews, it's best to take them with a grain of salt.
-     5. They took the rumor with a grain of salt, knowing it might not be true.
-
