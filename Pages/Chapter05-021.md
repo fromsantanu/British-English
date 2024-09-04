@@ -1,5 +1,14 @@
 # Noun Phrases
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=rMhSElFeVSw" target="_blank">
+    <img src="https://img.youtube.com/vi/rMhSElFeVSw/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 ### 1. **A cup of coffee**
    1. I start my day with a cup of coffee.
    2. She spilled a cup of coffee on her new dress.
