@@ -9,7 +9,7 @@
 
 ---
 
-###1. Go the extra mile
+### 1. Go the extra mile
 - Meaning: To make a special effort to achieve something.
 
 #### Examples:
@@ -23,27 +23,32 @@
 Meaning: To describe exactly what is causing a situation or problem.
 
 #### Examples:
-When he said that we needed better communication, he hit the nail on the head.
-You hit the nail on the head with your comment about the budget.
-She hit the nail on the head when she mentioned the lack of training.
-The report hit the nail on the head regarding the company's issues.
-They hit the nail on the head by identifying the root cause of the problem.
-3. Let sleeping dogs lie
+- When he said that we needed better communication, he hit the nail on the head.
+- You hit the nail on the head with your comment about the budget.
+- She hit the nail on the head when she mentioned the lack of training.
+- The report hit the nail on the head regarding the company's issues.
+- They hit the nail on the head by identifying the root cause of the problem.
+
+### 3. Let sleeping dogs lie
 Meaning: To avoid interfering in a situation that is currently not causing problems.
-Examples:
-We decided to let sleeping dogs lie and not revisit the old argument.
-He chose to let sleeping dogs lie rather than bring up past mistakes.
-Sometimes it's best to let sleeping dogs lie and move on.
-They agreed to let sleeping dogs lie to keep the peace.
-She knew it was better to let sleeping dogs lie and not mention the incident again.
-4. Bite off more than you can chew
+
+#### Examples:
+- We decided to let sleeping dogs lie and not revisit the old argument.
+- He chose to let sleeping dogs lie rather than bring up past mistakes.
+- Sometimes it's best to let sleeping dogs lie and move on.
+- They agreed to let sleeping dogs lie to keep the peace.
+= She knew it was better to let sleeping dogs lie and not mention the incident again.
+
+### 4. Bite off more than you can chew
 Meaning: To take on more responsibility than one can manage.
-Examples:
-He bit off more than he could chew when he agreed to manage three projects.
-She realized she had bitten off more than she could chew after volunteering for multiple committees.
-They bit off more than they could chew by trying to renovate the entire house themselves.
-I think I've bitten off more than I can chew with this workload.
-He often bites off more than he can chew and ends up stressed.
+
+#### Examples:
+- He bit off more than he could chew when he agreed to manage three projects.
+- She realized she had bitten off more than she could chew after volunteering for multiple committees.
+- They bit off more than they could chew by trying to renovate the entire house themselves.
+- I think I've bitten off more than I can chew with this workload.
+- He often bites off more than he can chew and ends up stressed.
+
 5. Call it a day
 Meaning: To stop working on something, especially when one feels they have done enough.
 Examples:
