@@ -1,6 +1,15 @@
 
 # Integrating into British Society: A Guide for New Immigrants
 
+## About Me (Watch the video) 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=FvoeaVcs6fE" target="_blank">
+    <img src="https://img.youtube.com/vi/FvoeaVcs6fE/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 If you are planning to immigrate to Britain and settle in England or the British Isles, it is important to consider key aspects that will help you integrate into the new society and culture. One significant factor to focus on for long-term settlement is adopting the British style of speaking.
 
 Many people wonder whether they should adopt the British style of communication or if they also need to change their accent to fit in better. Let's explore the difference between these two approaches:
