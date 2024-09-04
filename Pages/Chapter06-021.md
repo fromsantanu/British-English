@@ -1,3 +1,5 @@
+# Euphemisms
+
 Euphemisms are mild or indirect words or phrases used to replace more direct, harsh, or blunt expressions. They are often used to soften the impact of uncomfortable or unpleasant topics, such as death, illness, bodily functions, or social taboos. Euphemisms help to avoid offending others, reduce anxiety, and maintain social decorum.
 
 Here are some examples of euphemisms with explanations of their real meanings:
