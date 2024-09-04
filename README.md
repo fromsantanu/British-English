@@ -22,5 +22,16 @@ Learning to speak the British way as a non-native involves mastering pronunciati
   - [Mixed Phrases 3](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-033.md)
   - [Adjective Clauses](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-041.md)
   - [Adverb Clauses](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-051.md)
+- [**British Communication Specialties**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06.md)
+  - [Understatement](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-011.md)
+  - [Euphemisms](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-021.md)
+  - [Avoiding Direct No](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-031.md)
+  - [Hints and Suggestions](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-041.md)
+  - [Softening Statements with Modals and Qualifiers](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-051.md)
+  - [Use of Questions as Polite Requests](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-051.md)
+  - [Indirect Criticism](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-051.md)
+  - [Irony and Humor](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-051.md)
+  - [Polite Phrasing](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-051.md)
+  - [Apologetic Language](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter06-051.md)
  
   
