@@ -1,4 +1,4 @@
-# Commonly used British phrases I
+# Commonly Used British Phrases I
 
 Here are 15 commonly used British phrases, along with their meanings and three example sentences for each:
 
