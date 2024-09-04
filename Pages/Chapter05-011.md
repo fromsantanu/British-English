@@ -1,5 +1,14 @@
 # English Verb Phrases
 
+## Listen to the Audio 
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=WyhICeffCVA" target="_blank">
+    <img src="https://img.youtube.com/vi/WyhICeffCVA/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+---
+
 ### 1. **Get up**
    1. I get up early every morning.
    2. He gets up late on weekends.
