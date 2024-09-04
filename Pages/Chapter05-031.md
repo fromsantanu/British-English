@@ -10,7 +10,7 @@
 ---
 
 ### 1. Go the extra mile
-- Meaning: To make a special effort to achieve something.
+Meaning: To make a special effort to achieve something.
 
 #### Examples:
 - She always goes the extra mile to help her students succeed.
