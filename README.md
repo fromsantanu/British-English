@@ -3,6 +3,7 @@ Learning to speak the British way as a non-native involves mastering pronunciati
 
 ## Table of Content
 - [**Integrating into British Society**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter01-00.md)
+- [**Make Your First Impression**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter01-001.md)
 - [**Assumptions About The Learner**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter01.md)
 - [**Practice Method**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter02.md)
 - [**General Conversations**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter03.md)
