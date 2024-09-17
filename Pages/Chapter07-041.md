@@ -1,5 +1,15 @@
 # Practice Pronunciation I
 
+## Watch the video
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=6wU6aDrSp3A" target="_blank">
+    <img src="https://img.youtube.com/vi/6wU6aDrSp3A/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+
+---
+
 Here is a list of 20 English words, along with their meanings and usage examples to help you practice pronunciation:
 
 1. **Inevitable**
