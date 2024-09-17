@@ -1,4 +1,14 @@
 # Travel
+
+## Watch the video
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=vZX7C6hNfIc" target="_blank">
+    <img src="https://img.youtube.com/vi/vZX7C6hNfIc/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+
+---
 Here is a list of 20 words in the context of "Travel," along with their meanings and usage examples:
 
 1. **Itinerary**  
