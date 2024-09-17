@@ -1,5 +1,15 @@
 # Practice Pronunciation III
 
+## Watch the video
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=g3h0kWqdtaY" target="_blank">
+    <img src="https://img.youtube.com/vi/g3h0kWqdtaY/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  </a>
+</p>
+
+
+---
+
 Here is another list of 20 English words with their meanings and usage examples:
 
 1. **Impetuous**
