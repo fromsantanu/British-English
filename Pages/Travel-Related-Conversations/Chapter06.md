@@ -1,6 +1,6 @@
 # Priya Takes A Weekend Tour to Scotland with Sally
 
-Here’s the extended version of the conversation where Priya and Sally visit **the Highlands**, **Loch Ness**, and explore **historic castles**, while extending their stay to make the most of their Scotland trip.
+Here’s the extended version of the conversation where Priya and Sally visit Scotland during the weekend going to **Museum of Sir Walter Scott**, **University of Edinburgh**, **the Highlands**, **Loch Ness**, and explore **historic castles**, while extending their stay to make the most of their Scotland trip.
 
 ---
 
