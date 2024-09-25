@@ -2,8 +2,8 @@
 
 ## About Me (Watch the video) 
  <p align="center">
-  <a href="https://www.youtube.com/watch?v=FkRjfmuAlmY" target="_blank">
-    <img src="https://img.youtube.com/vi/FkRjfmuAlmY/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  <a href="https://www.youtube.com/watch?v=AUHQsIm0eXs" target="_blank">
+    <img src="https://img.youtube.com/vi/AUHQsIm0eXs/hqdefault.jpg" alt="Watch the video" width="900" height="500">
   </a>
 </p>
 
