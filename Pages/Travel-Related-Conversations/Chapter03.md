@@ -157,7 +157,7 @@ Thank you, Uncle Sam. I really appreciate it.
 It’s my pleasure. So, after lunch, any plans?
 
 **Priya:**  
-I’m just going to take a walk around the city, maybe visit a few shops. And then I’ll head back to Mimi’s place.
+I’m just going to take a walk around the city, maybe visit a few shops. And then I’ll head back to Sally’s place.
 
 **Sam (getting up):**  
 Sounds like a nice afternoon. Well, let’s get going. I’ll walk with you for a bit before I head back to work.
