@@ -20,7 +20,7 @@ Learning to speak the British way as a non-native involves mastering pronunciati
   - [Priya visits London with Sally and Uncle Sam](https://github.com/fromsantanu/British-English/blob/main/Pages/Travel-Related-Conversations/Chapter05.md)
   - [Priya's weekend tour to Scotland with Sally](https://github.com/fromsantanu/British-English/blob/main/Pages/Travel-Related-Conversations/Chapter06.md)
 - [**Story Narrations**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter04.md)
-  - [Narration Example 1 - A suprising day](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter04-01.md)
+  - [Narration Example 1 - The dance party](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter04-01.md)
   - [Narration Example 2 - A scary experience](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter04-02.md)
 - [**Usage Examples (Sentence Making)**](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05.md)
   - [Verb Phrases](https://github.com/fromsantanu/British-English/blob/main/Pages/Chapter05-011.md)
