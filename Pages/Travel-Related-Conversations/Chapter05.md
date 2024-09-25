@@ -1,4 +1,6 @@
-Here’s the adjusted version of the script where **Sam** is **Sally’s Grand Uncle** and she affectionately calls him **“Granny”**. Priya calls him **Uncle Sam**, while Sally refers to Priya as **Aunt Priya**. The relationships are reflected throughout the conversation.
+# Priya Visits London With Sally and Uncle Sam
+
+Here’s a detailed and extended conversation script where Priya and Sally visit Uncle Sam in London for a weekend trip. Uncle Sam takes them around the city, visiting important landmarks and having a full tourist experience, especially for Priya, who is new to London. Sally, being familiar with the city, adds her insights while Uncle Sam guides them through.
 
 ---
 
