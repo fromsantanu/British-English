@@ -1,4 +1,4 @@
-# Story Narration 1
+# Narration Example 1 - The dance party
 
 ## Listen to the Audio 
  <p align="center">
