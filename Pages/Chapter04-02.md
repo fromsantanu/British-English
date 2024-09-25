@@ -1,4 +1,4 @@
-# Story Narration 2
+# Narration Example 2 - A scary experience
 
 ## Listen to the Audio 
  <p align="center">
