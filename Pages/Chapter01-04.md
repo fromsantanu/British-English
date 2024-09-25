@@ -2,8 +2,8 @@
 
 ## Watch the video
  <p align="center">
-  <a href="https://www.youtube.com/watch?v=Cnp-0n3auOA" target="_blank">
-    <img src="https://img.youtube.com/vi/Cnp-0n3auOA/hqdefault.jpg" alt="Watch the video" width="900" height="500">
+  <a href="https://www.youtube.com/watch?v=RxzN3UR-2Mk" target="_blank">
+    <img src="https://img.youtube.com/vi/RxzN3UR-2Mk/hqdefault.jpg" alt="Watch the video" width="900" height="500">
   </a>
 </p>
 
