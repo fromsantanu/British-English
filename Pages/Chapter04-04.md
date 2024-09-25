@@ -1,6 +1,5 @@
 
-#Script: The Bogus Crime Story**
-
+# Narration Example 4 - A bogus crime story
 ---
 
 **[Setting: A dimly lit bar. Two friends are sitting at a booth with drinks in front of them. The narrator, a man in his early 30s, leans forward with a sly grin as he begins his tale. His friend listens, intrigued but increasingly skeptical as the story progresses.]**
