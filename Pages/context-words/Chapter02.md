@@ -1,3 +1,5 @@
+# Capitalist Economy
+
 ### 1. **Market economy**  
 **Meaning**: An economic system in which decisions regarding investment, production, and distribution are guided by the price signals created by the forces of supply and demand.  
 **Sentence**: *In a market economy, consumers and producers determine what goods and services are available.*
